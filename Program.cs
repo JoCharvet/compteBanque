@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Compte compte1 = new Compte("dueb",2500,500);
         }
     }
 }

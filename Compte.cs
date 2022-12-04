@@ -72,7 +72,6 @@ namespace exo_Banque
         {
             return (this.Debiter(_montant) && _autreCompte.Crediter(_montant)) ? true: false; 
            
-       
         }
     }
 }
