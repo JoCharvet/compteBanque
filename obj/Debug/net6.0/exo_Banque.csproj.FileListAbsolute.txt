@@ -1,0 +1,15 @@
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\bin\Debug\net6.0\exo_Banque.exe
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\bin\Debug\net6.0\exo_Banque.deps.json
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\bin\Debug\net6.0\exo_Banque.runtimeconfig.json
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\bin\Debug\net6.0\exo_Banque.dll
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\bin\Debug\net6.0\exo_Banque.pdb
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.csproj.AssemblyReference.cache
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.AssemblyInfoInputs.cache
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.AssemblyInfo.cs
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.csproj.CoreCompileInputs.cache
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.dll
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\refint\exo_Banque.dll
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.pdb
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\exo_Banque.genruntimeconfig.cache
+C:\Users\Charv\OneDrive\Bureau\exo_conception\exo_p3\Banque\exo_Banque\obj\Debug\net6.0\ref\exo_Banque.dll

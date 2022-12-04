@@ -63,9 +63,9 @@ namespace exo_Banque
             return (this.solde > _autreCompte.solde) ? true : false;
         }
 
-        public string ToString(string _symbole ="€")
+        public override string ToString(/*string _symbole ="€"*/)
         {
-            return $" Compte : {this.numeroCompte} \nTitulaire : {this.nomTitulaire} \nSolde : {this.solde} {_symbole}\nDecouvert Authorise : {this.decouvertAuthorise} {_symbole}";
+            return $" Compte : {this.numeroCompte} \nTitulaire : {this.nomTitulaire} \nSolde : {this.solde} \nDecouvert Authorise : {this.decouvertAuthorise} ";
         }
 
         public bool Transferer(double _montant,Compte _autreCompte )

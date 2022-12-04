@@ -56,6 +56,19 @@ namespace exo_Banque
             this.AjouterCompte(new Compte(  _nom, _solde, _decouvertAuthorise));
         }
 
+        public override string ToString()
+        {
+            string result = $"Liste des comptes de la Banque : {this.NomBanque}  \nVille : {this.VilleBanque}\n --- \n";
+            foreach (var item in this.comptesClients)
+            {
+                result += item.ToString()+"\n --- \n";
+            }
+            return result;
+        }
+
+    
+            
+
 
     }
 }
